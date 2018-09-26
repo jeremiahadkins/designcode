@@ -42,7 +42,7 @@ const IndexPage = () => (
             <img src={require('../images/logo-figma.png')} alt=""/>
             <img src={require('../images/logo-framer.png')} alt=""/>
             <img src={require('../images/logo-react.png')} alt=""/>
-            <img src={require('../images/logo-sketch.png')} alt=""/>
+            <img src={require('../images/logo-studio.png')} alt=""/>
             <img src={require('../images/logo-swift.png')} alt=""/>
             <img src={require('../images/logo-sketch.png')} alt=""/>
           </div>
